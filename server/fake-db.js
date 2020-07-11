@@ -6,7 +6,7 @@ class FakeDb {
         this.products = [
             {
                 coverImage: './assets/img/phone-cover.jpg',
-                name: 'Phone XL',
+                name: 'Phone XL from DB',
                 price: 799,
                 description: 'A large phone with one of the best screens',
                 heding1: 'サンプルテキスト1',
